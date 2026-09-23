@@ -1,0 +1,26 @@
+[
+  {
+    "id": "WK001",
+    "workerCode": "WK001",
+    "name": "Ramesh Tudu",
+    "role": "Factory Worker",
+    "language": "English",
+    "qr": "WK001"
+  },
+  {
+    "id": "WK002",
+    "workerCode": "WK002",
+    "name": "Amit Sharma",
+    "role": "Furnace Operator",
+    "language": "English",
+    "qr": "WK002"
+  },
+  {
+    "id": "WK003",
+    "workerCode": "WK003",
+    "name": "Sunita Mahato",
+    "role": "Safety Inspector",
+    "language": "English",
+    "qr": "WK003"
+  }
+]

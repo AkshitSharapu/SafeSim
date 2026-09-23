@@ -1,0 +1,21 @@
+[
+  {
+    "id": "MOD-FIRE-01",
+    "title": "Fire & Explosion Response",
+    "category": "High Hazard Emergency",
+    "department": "Mining, Steel & Heavy Manufacturing",
+    "duration": "3 minutes",
+    "difficulty": "Beginner",
+    "description": "Learn emergency identification, containment, and immediate suppression of industrial Class A, B, and C fires using standard factory PASS protocols and rapid evacuation maneuvers.",
+    "objectives": [
+      "Identify the 4 fire classifications (Class A, B, C, D) found in industrial plants",
+      "Master the PASS Extinguisher Protocol (Pull, Aim, Squeeze, Sweep)",
+      "Assess risk thresholds and determine when evacuation is mandatory",
+      "Execute automated gas-line cutoffs and electrical isolation procedures"
+    ],
+    "estimatedDurationSeconds": 180,
+    "passingScorePercentage": 70,
+    "icon": "local_fire_department",
+    "isLocked": false
+  }
+]
