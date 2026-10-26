@@ -1,0 +1,21 @@
+[
+  {
+    "id": "MOD-FIRE-01",
+    "title": "Fire Response: CO2 Practice",
+    "category": "High Hazard Emergency",
+    "department": "Mining, Steel & Heavy Manufacturing",
+    "duration": "3 minutes",
+    "difficulty": "Beginner",
+    "description": "A guided virtual factory exercise: raise the alarm, collect a CO2 extinguisher, pull the pin, aim and sweep, then return to the exit.",
+    "objectives": [
+      "Raise the alarm and follow the guidance arrows",
+      "Pick up the CO2 extinguisher and remove its pin",
+      "Aim and sweep across the simulated fire zones",
+      "Return to the exit and review your result"
+    ],
+    "estimatedDurationSeconds": 180,
+    "passingScorePercentage": 70,
+    "icon": "local_fire_department",
+    "isLocked": false
+  }
+]

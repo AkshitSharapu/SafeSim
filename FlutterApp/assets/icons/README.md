@@ -1,0 +1,1 @@
+# SafeSim Icons Directory

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "WK001",
+    "workerCode": "WK001",
+    "name": "Sharapu Akshit",
+    "role": "Lead Safety Officer & Operations",
+    "language": "English",
+    "department": "Mining & Plant Div. 04",
+    "qr": "WK001"
+  },
+  {
+    "id": "WK002",
+    "workerCode": "WK002",
+    "name": "Rishitha Reddy",
+    "role": "Furnace Operations Specialist",
+    "language": "English",
+    "department": "Blast Furnace Div. 02",
+    "qr": "WK002"
+  },
+  {
+    "id": "WK003",
+    "workerCode": "WK003",
+    "name": "Srinivas",
+    "role": "Heavy Machinery & Rigging Operator",
+    "language": "English",
+    "department": "Ore Extraction Div. 01",
+    "qr": "WK003"
+  }
+]

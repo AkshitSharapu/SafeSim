@@ -1,0 +1,122 @@
+[
+  {
+    "id": "Q1",
+    "question": "In the industrial PASS fire extinguisher procedure, what does the letter 'A' represent?",
+    "options": [
+      "Activate the emergency siren",
+      "Aim low at the base of the fire",
+      "Alert the plant supervisor",
+      "Apply water immediately"
+    ],
+    "correctIndex": 1,
+    "explanation": "In PASS (Pull, Aim, Squeeze, Sweep), 'A' stands for Aiming low at the base of the flames where the fuel source is located."
+  },
+  {
+    "id": "Q2",
+    "question": "Which class of fire involves flammable liquids such as industrial lubricants, diesel, or solvents in a steel plant?",
+    "options": [
+      "Class A",
+      "Class B",
+      "Class C",
+      "Class D"
+    ],
+    "correctIndex": 1,
+    "explanation": "Class B fires involve flammable liquids and gases such as petrol, oil, grease, and paint."
+  },
+  {
+    "id": "Q3",
+    "question": "What is the very first step before attempting to fight an incipient industrial fire with a portable extinguisher?",
+    "options": [
+      "Ensure you have a clear, unblocked exit route behind you",
+      "Discharge the extinguisher into the air to test pressure",
+      "Turn off all factory lights",
+      "Open nearby windows to let smoke out"
+    ],
+    "correctIndex": 0,
+    "explanation": "Always maintain an unobstructed escape route behind your back so you can immediately evacuate if the fire spreads."
+  },
+  {
+    "id": "Q4",
+    "question": "What does the 'P' in the PASS technique instruct the operator to do?",
+    "options": [
+      "Press the emergency stop button",
+      "Pull the safety pin and tamper seal",
+      "Position yourself downwind of the fire",
+      "Pump the handle vigorously"
+    ],
+    "correctIndex": 1,
+    "explanation": "'P' stands for Pulling the safety pin located at the top of the handle, which breaks the tamper seal."
+  },
+  {
+    "id": "Q5",
+    "question": "Why should water NEVER be applied to an energized electrical fire (Class C) in an industrial workshop?",
+    "options": [
+      "Water evaporates too quickly to be effective",
+      "Water conducts electricity, creating a fatal electrocution hazard",
+      "It causes the copper cables to melt faster",
+      "Water reacts chemically to produce poisonous chlorine gas"
+    ],
+    "correctIndex": 1,
+    "explanation": "Water is an electrical conductor. Directing water onto live electrical equipment can transmit lethal electrical currents back to the operator."
+  },
+  {
+    "id": "Q6",
+    "question": "How far should an operator typically stand from an industrial fire when first discharging a dry chemical extinguisher?",
+    "options": [
+      "1 to 2 feet (0.5 meters)",
+      "6 to 8 feet (2 to 2.5 meters)",
+      "25 to 30 feet (8 to 10 meters)",
+      "Directly over the burning surface"
+    ],
+    "correctIndex": 1,
+    "explanation": "Standard recommended operating distance is 6 to 8 feet (approx. 2-2.5 meters), moving closer cautiously as the flames subside."
+  },
+  {
+    "id": "Q7",
+    "question": "During the final 'S' (Sweep) motion of PASS, how should the nozzle be maneuvered?",
+    "options": [
+      "In a circular clockwise motion around the smoke",
+      "Side to side across the base of the fire until extinguished",
+      "Directly straight without moving",
+      "Up and down into the flames"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sweeping the nozzle side-to-side ensures complete chemical coverage across the burning base of the fuel."
+  },
+  {
+    "id": "Q8",
+    "question": "In a mining or underground tunnel environment, what is the mandatory immediate action upon detecting an uncontained conveyor belt fire?",
+    "options": [
+      "Continue working until the supervisor arrives",
+      "Sound mine emergency alarm, activate suppression, and evacuate to fresh air base",
+      "Pour sand on the conveyor rollers and monitor for 30 minutes",
+      "Attempt to splice the burning belt section"
+    ],
+    "correctIndex": 1,
+    "explanation": "Conveyor belt fires underground rapidly deplete oxygen and produce toxic carbon monoxide; instant alarm and evacuation to refuge bays/fresh air is vital."
+  },
+  {
+    "id": "Q9",
+    "question": "What type of fire extinguisher is colored red with a black label band and is optimal for electrical & chemical laboratory fires?",
+    "options": [
+      "Water Mist",
+      "Carbon Dioxide (CO2)",
+      "Wet Chemical",
+      "Foam (AFFF)"
+    ],
+    "correctIndex": 1,
+    "explanation": "CO2 extinguishers (black band) discharge non-conductive gas that displaces oxygen without leaving corrosive residue on sensitive electronics."
+  },
+  {
+    "id": "Q10",
+    "question": "When should an industrial worker STOP attempting to extinguish a fire and immediately evacuate?",
+    "options": [
+      "When the fire reaches ceiling height or spreads rapidly",
+      "When smoke impairs vision or breathing",
+      "When the extinguisher runs empty before the fire is out",
+      "All of the above"
+    ],
+    "correctIndex": 3,
+    "explanation": "Worker safety is the highest priority. If the fire exceeds portable capacity, smoke accumulates, or agent is depleted, evacuate immediately."
+  }
+]

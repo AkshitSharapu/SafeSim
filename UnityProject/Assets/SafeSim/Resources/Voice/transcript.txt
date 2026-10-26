@@ -1,0 +1,17 @@
+welcome: Welcome to Safe Sim. This virtual exercise demonstrates a simplified fire response. Select Start Training when you are ready.
+
+alarm: First, raise the alarm. Follow the arrows to the red alarm station. Approach it, face it, and select Raise Alarm.
+
+pickup: Collect the carbon dioxide extinguisher from its stand. Follow the arrows, face the cylinder, and select Pick Up.
+
+pin: Pull the safety pin. Select Pull Pin, or press P on your keyboard.
+
+approach: Follow the arrows to the turquoise operating mark. Keep the exit behind you.
+
+suppress: Aim at the base of the fire. Hold Spray and sweep from side to side across all three fire zones. The aiming dot turns green when you are on target.
+
+exit: The fire has been suppressed. Follow the arrows back to the exit to complete this exercise.
+
+complete: Training complete. You raised the alarm, collected the extinguisher, removed the pin, and suppressed the fire. Review your results.
+
+failed: The extinguisher is empty. Restart the exercise. Aim at the base of each fire zone and use controlled bursts.
